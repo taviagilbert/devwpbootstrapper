@@ -1,0 +1,4 @@
+<?php
+/**
+ * The category template
+ **/

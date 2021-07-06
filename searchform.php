@@ -1,0 +1,4 @@
+<?php
+/**
+ * The searchform template
+ **/
